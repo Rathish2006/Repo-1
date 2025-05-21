@@ -1,0 +1,101 @@
+ID	Domain	Topic	Subtopic	Application	Technology Used	Difficulty Level
+1	Autonomous Vehicle	Computer Vision	Object Detection	Self-driving Cars	Python	Intermediate
+2	Robotics	Manipulation	Pick and Place	Warehouse Robots	ROS	Advanced
+3	Autonomous Vehicle	Sensor Fusion	IMU Fusion	Autonomous Drones	TensorFlow	Intermediate
+4	Robotics	Motion Planning	Trajectory Generation	Industrial Automation	C++	Advanced
+5	Autonomous Vehicle	Path Planning	A*	Self-driving Cars	OpenCV	Intermediate
+6	Robotics	Perception	Object Recognition	Service Robots	Python	Beginner
+7	Autonomous Vehicle	Navigation	SLAM	Self-driving Cars	ROS	Advanced
+8	Robotics	Actuation	Servo Motors	Warehouse Robots	C++	Beginner
+9	Autonomous Vehicle	Control Systems	PID	Autonomous Drones	Python	Intermediate
+10	Robotics	Localization	EKF	Service Robots	TensorFlow	Advanced
+11	Autonomous Vehicle	Computer Vision	Lane Detection	Self-driving Cars	OpenCV	Intermediate
+12	Robotics	Perception	Depth Estimation	Industrial Automation	C++	Advanced
+13	Autonomous Vehicle	Sensor Fusion	Lidar Integration	Self-driving Cars	Python	Intermediate
+14	Robotics	Manipulation	Force Control	Service Robots	ROS	Advanced
+15	Autonomous Vehicle	Control Systems	Adaptive Control	Autonomous Drones	Python	Advanced
+16	Robotics	Motion Planning	Obstacle Avoidance	Warehouse Robots	Python	Intermediate
+17	Autonomous Vehicle	Navigation	GPS	Self-driving Cars	TensorFlow	Beginner
+18	Robotics	Localization	Monte Carlo Localization	Service Robots	C++	Advanced
+19	Autonomous Vehicle	Path Planning	Dijkstra	Self-driving Cars	ROS	Intermediate
+20	Robotics	Actuation	Hydraulic Systems	Industrial Automation	MATLAB	Advanced
+21	Autonomous Vehicle	Sensor Fusion	Kalman Filter	Autonomous Drones	C++	Intermediate
+22	Robotics	Perception	Camera Sensing	Service Robots	OpenCV	Beginner
+23	Autonomous Vehicle	Computer Vision	Object Detection	Self-driving Cars	Python	Intermediate
+24	Robotics	Manipulation	Grasping	Warehouse Robots	ROS	Intermediate
+25	Autonomous Vehicle	Control Systems	Model Predictive Control	Self-driving Cars	MATLAB	Advanced
+26	Robotics	Motion Planning	Kinematics	Industrial Automation	C++	Advanced
+27	Autonomous Vehicle	Navigation	Dead Reckoning	Self-driving Cars	Python	Intermediate
+28	Robotics	Localization	Particle Filter	Service Robots	Python	Advanced
+29	Autonomous Vehicle	Computer Vision	Semantic Segmentation	Autonomous Drones	TensorFlow	Advanced
+30	Robotics	Actuation	Pneumatic Actuators	Warehouse Robots	MATLAB	Beginner
+31	Autonomous Vehicle	Sensor Fusion	Kalman Filter	Self-driving Cars	ROS	Intermediate
+32	Robotics	Perception	Object Recognition	Industrial Automation	C++	Intermediate
+33	Autonomous Vehicle	Path Planning	RRT	Autonomous Drones	Python	Advanced
+34	Robotics	Manipulation	Pick and Place	Service Robots	OpenCV	Intermediate
+35	Autonomous Vehicle	Control Systems	PID	Self-driving Cars	Python	Beginner
+36	Robotics	Motion Planning	Trajectory Generation	Warehouse Robots	TensorFlow	Advanced
+37	Autonomous Vehicle	Navigation	SLAM	Autonomous Drones	ROS	Advanced
+38	Robotics	Localization	EKF	Service Robots	C++	Intermediate
+39	Autonomous Vehicle	Computer Vision	Lane Detection	Self-driving Cars	OpenCV	Beginner
+40	Robotics	Perception	Depth Estimation	Industrial Automation	Python	Advanced
+41	Autonomous Vehicle	Sensor Fusion	IMU Fusion	Self-driving Cars	TensorFlow	Intermediate
+42	Robotics	Manipulation	Grasping	Warehouse Robots	ROS	Beginner
+43	Autonomous Vehicle	Path Planning	A*	Autonomous Drones	C++	Advanced
+44	Robotics	Actuation	Servo Motors	Service Robots	Python	Intermediate
+45	Autonomous Vehicle	Control Systems	Adaptive Control	Self-driving Cars	Python	Advanced
+46	Robotics	Motion Planning	Obstacle Avoidance	Industrial Automation	OpenCV	Intermediate
+47	Autonomous Vehicle	Navigation	GPS	Autonomous Drones	TensorFlow	Beginner
+48	Robotics	Localization	Monte Carlo Localization	Service Robots	Python	Advanced
+49	Autonomous Vehicle	Sensor Fusion	Lidar Integration	Self-driving Cars	ROS	Intermediate
+50	Robotics	Perception	Camera Sensing	Warehouse Robots	OpenCV	Beginner
+51	Autonomous Vehicle	Computer Vision	Object Detection	Self-driving Cars	Python	Intermediate
+52	Robotics	Manipulation	Force Control	Industrial Automation	C++	Advanced
+53	Autonomous Vehicle	Path Planning	Dijkstra	Autonomous Drones	ROS	Intermediate
+54	Robotics	Actuation	Hydraulic Systems	Service Robots	MATLAB	Advanced
+55	Autonomous Vehicle	Control Systems	Model Predictive Control	Self-driving Cars	Python	Advanced
+56	Robotics	Motion Planning	Kinematics	Warehouse Robots	C++	Intermediate
+57	Autonomous Vehicle	Navigation	Dead Reckoning	Autonomous Drones	Python	Intermediate
+58	Robotics	Localization	Particle Filter	Service Robots	TensorFlow	Advanced
+59	Autonomous Vehicle	Computer Vision	Semantic Segmentation	Self-driving Cars	OpenCV	Advanced
+60	Robotics	Perception	Object Recognition	Industrial Automation	Python	Intermediate
+61	Autonomous Vehicle	Sensor Fusion	Kalman Filter	Self-driving Cars	Python	Intermediate
+62	Robotics	Manipulation	Pick and Place	Warehouse Robots	ROS	Intermediate
+63	Autonomous Vehicle	Path Planning	RRT	Autonomous Drones	C++	Advanced
+64	Robotics	Actuation	Pneumatic Actuators	Service Robots	MATLAB	Beginner
+65	Autonomous Vehicle	Control Systems	PID	Self-driving Cars	Python	Intermediate
+66	Robotics	Motion Planning	Trajectory Generation	Industrial Automation	TensorFlow	Advanced
+67	Autonomous Vehicle	Navigation	SLAM	Self-driving Cars	ROS	Advanced
+68	Robotics	Localization	EKF	Warehouse Robots	C++	Intermediate
+69	Autonomous Vehicle	Computer Vision	Lane Detection	Autonomous Drones	OpenCV	Beginner
+70	Robotics	Perception	Depth Estimation	Service Robots	Python	Advanced
+71	Autonomous Vehicle	Sensor Fusion	IMU Fusion	Self-driving Cars	TensorFlow	Intermediate
+72	Robotics	Manipulation	Grasping	Industrial Automation	ROS	Beginner
+73	Autonomous Vehicle	Path Planning	A*	Autonomous Drones	C++	Advanced
+74	Robotics	Actuation	Servo Motors	Warehouse Robots	Python	Intermediate
+75	Autonomous Vehicle	Control Systems	Adaptive Control	Self-driving Cars	Python	Advanced
+76	Robotics	Motion Planning	Obstacle Avoidance	Service Robots	OpenCV	Intermediate
+77	Autonomous Vehicle	Navigation	GPS	Self-driving Cars	TensorFlow	Beginner
+78	Robotics	Localization	Monte Carlo Localization	Industrial Automation	Python	Advanced
+79	Autonomous Vehicle	Sensor Fusion	Lidar Integration	Autonomous Drones	ROS	Intermediate
+80	Robotics	Perception	Camera Sensing	Service Robots	OpenCV	Beginner
+81	Autonomous Vehicle	Computer Vision	Object Detection	Self-driving Cars	Python	Intermediate
+82	Robotics	Manipulation	Force Control	Warehouse Robots	C++	Advanced
+83	Autonomous Vehicle	Path Planning	Dijkstra	Autonomous Drones	ROS	Intermediate
+84	Robotics	Actuation	Hydraulic Systems	Service Robots	MATLAB	Advanced
+85	Autonomous Vehicle	Control Systems	Model Predictive Control	Self-driving Cars	Python	Advanced
+86	Robotics	Motion Planning	Kinematics	Industrial Automation	C++	Intermediate
+87	Autonomous Vehicle	Navigation	Dead Reckoning	Autonomous Drones	Python	Intermediate
+88	Robotics	Localization	Particle Filter	Warehouse Robots	TensorFlow	Advanced
+89	Autonomous Vehicle	Computer Vision	Semantic Segmentation	Self-driving Cars	OpenCV	Advanced
+90	Robotics	Perception	Object Recognition	Service Robots	Python	Intermediate
+91	Autonomous Vehicle	Sensor Fusion	Kalman Filter	Autonomous Drones	Python	Intermediate
+92	Robotics	Manipulation	Pick and Place	Industrial Automation	ROS	Intermediate
+93	Autonomous Vehicle	Path Planning	RRT	Self-driving Cars	C++	Advanced
+94	Robotics	Actuation	Pneumatic Actuators	Service Robots	MATLAB	Beginner
+95	Autonomous Vehicle	Control Systems	PID	Autonomous Drones	Python	Intermediate
+96	Robotics	Motion Planning	Trajectory Generation	Warehouse Robots	TensorFlow	Advanced
+97	Autonomous Vehicle	Navigation	SLAM	Self-driving Cars	ROS	Advanced
+98	Robotics	Localization	EKF	Industrial Automation	C++	Intermediate
+99	Autonomous Vehicle	Computer Vision	Lane Detection	Self-driving Cars	OpenCV	Beginner
+100	Robotics	Perception	Depth Estimation	Service Robots	Python	Advanced
